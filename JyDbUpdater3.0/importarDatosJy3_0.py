@@ -1,7 +1,9 @@
 '''
 Created on Aug 7, 2014
-
-@author: DanielTuna
+ @author Angel Daniel Munoz Gonzalez
+ @email angel.dtmunoz@gmail.com
+ @School Universidad Tecnologica de Ciudad Juarez
+ 
 '''
 from __future__ import with_statement
 from com.ziclix.python.sql import zxJDBC

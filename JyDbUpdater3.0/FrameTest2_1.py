@@ -1,7 +1,9 @@
 '''
 Created on Aug 8, 2014
+ @author Angel Daniel Munoz Gonzalez
+ @email angel.dtmunoz@gmail.com
+ @School Universidad Tecnologica de Ciudad Juarez
 
-@author: DanielTuna
 '''
 from javax.swing import JScrollPane, JCheckBox, UIManager
 from javax.swing import JFileChooser
