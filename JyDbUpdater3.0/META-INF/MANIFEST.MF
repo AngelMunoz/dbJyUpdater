@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_11-b12 (Oracle Corporation)
+Main-Class: com.simontuffs.onejar.Boot
+Class-Path: lib/jython-full.jar lib/zxJDBC.jar lib/mysql-connector-java-5.1.18-bin.jar
