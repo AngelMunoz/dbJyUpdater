@@ -78,7 +78,7 @@ class DatabaseUpater(JFrame):
         self.setLocationRelativeTo(None)
         self.setVisible(True)
         self.setDefaultLookAndFeelDecorated(True)
-	self.setResizable(False)
+        self.setResizable(False)
 
     def addFile(self, e):
 
@@ -125,4 +125,7 @@ class DatabaseUpater(JFrame):
             self.btnUpdateDb.setEnabled(False)
             actualizar_24h_db(self.txtFileName.getText())
             self.btnUpdateDb.setText('Database Updated')
+            
+            
+DatabaseUpater()
 
